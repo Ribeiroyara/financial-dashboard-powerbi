@@ -109,7 +109,7 @@ Although Furniture represented one of the highest sales categories, it produced 
 An analysis of average profit by discount level revealed that small discounts (10%) were associated with higher average profits.
 However, discount levels above 30% resulted in negative average profits, suggesting that aggressive discount strategies may significantly reduce overall profitability.
 
-![Discount vs Profit](images/discount_vs_profit_query.png)
+![Discount vs Profit](images/discont_vs_profit_query.png)
 
 ### Regional Profit Analysis
 
