@@ -104,3 +104,11 @@ Technology generated the highest profit ($145,544.95), followed by Office Suppli
 Although Furniture represented one of the highest sales categories, it produced substantially lower profits ($18,451.27), suggesting potential margin challenges or the impact of discounts.
 
 ![Profit by Category](images/profit_by_category_query.png)
+
+### Impact of Discounts on Profitability
+
+An analysis of average profit by discount level revealed that small discounts (10%) were associated with higher average profits.
+
+However, discount levels above 30% resulted in negative average profits, suggesting that aggressive discount strategies may significantly reduce overall profitability.
+
+![Discount vs Profit](images/discount_vs_profit_query.png)
