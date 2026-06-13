@@ -63,3 +63,34 @@ ORDER BY total_sales DESC;
 Query Result
 
 ![Sales by Category Query](images/sales_by_category_query.png)
+
+## Data Quality Assessment
+
+Before conducting the analysis, the dataset was assessed to ensure its suitability for business analysis.
+
+The following checks were performed:
+
+- Missing values assessment
+- Duplicate records assessment
+- Dataset temporal coverage validation
+
+### Results
+
+| Validation Check | Result |
+|------------------|---------|
+| Missing values | No missing values identified |
+| Duplicate records | No duplicate records identified |
+| Date range | Dataset covers the period from 2014 to 2017 |
+
+The dataset was considered suitable for further analysis without requiring additional cleaning steps.
+
+### SQL Validation
+
+#### Null Values Check
+![Null check](images/check_null_query.png)
+
+#### Duplicate Records Check
+![Duplicate check](images/duplicate_check.png)
+
+#### Date Range Validation
+![Date range check](images/date_range_check.png)
