@@ -94,3 +94,13 @@ The dataset was considered suitable for further analysis without requiring addit
 
 #### Date Range Validation
 ![Date range check](images/date_range_check.png)
+
+## Exploratory SQL Analysis
+
+### Profit by Category
+
+Technology generated the highest profit ($145,544.95), followed by Office Supplies ($122,490.80).
+
+Although Furniture represented one of the highest sales categories, it produced substantially lower profits ($18,451.27), suggesting potential margin challenges or the impact of discounts.
+
+![Profit by Category](images/profit_by_category_query.png)
